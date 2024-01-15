@@ -1,4 +1,4 @@
-# OpenGL-HW-1
+# OpenGL-HW1
 This is my CTIS 164 Project 1. 
 
 Grade: 110/100
