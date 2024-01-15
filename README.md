@@ -1,6 +1,7 @@
 # OpenGL-HW-1
-CTIS OpenGL Homework 1
 This is my CTIS 164 Project 1. 
+
+Grade: 110/100
 
 Minimum requirements: 90 Pts
  (3pts) Write your first name and surname in a label.
